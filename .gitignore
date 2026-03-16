@@ -1,0 +1,8 @@
+.idea/
+*.ini
+desktop.ini
+
+out/
+*.class
+
+OOP git.txt
